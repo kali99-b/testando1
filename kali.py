@@ -7,8 +7,8 @@ from urllib.parse import urlencode
 import datetime
 
 # Configurações da API
-API_KEY = '717ebc8ce149e48acc10ef7777051d612107c3c67bc0d1e6c0cb08a519d9df52'
-SECRET_KEY = 'f02fa5415ecc007974d591526ce1382490e35f9944a5dce6a47eb90a3a688630'
+API_KEY = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+SECRET_KEY = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 ENDPOINT = 'https://testnet.binancefuture.com/fapi/v1/klines'
 
 # Par de moedas e intervalo de tempo do candle
